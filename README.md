@@ -94,7 +94,7 @@ Building deeper hands-on expertise in **Azure DevOps, Terraform, AKS, cloud netw
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
